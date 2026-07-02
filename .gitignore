@@ -1,0 +1,17 @@
+pkg/
+src/
+*.zst
+
+# build artifacts
+__pycache__/
+.buildenv/
+build/
+dist/
+*.spec
+*.dmg
+*.exe
+proxify.icns
+*.svg.png
+
+# macOS
+.DS_Store

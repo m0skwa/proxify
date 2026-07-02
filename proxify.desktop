@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Proxify
+Comment=Proxmox SPICE/console launcher
+Exec=proxify
+Icon=proxify
+Terminal=false
+Categories=Network;RemoteAccess;
+StartupWMClass=Proxify
